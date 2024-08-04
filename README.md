@@ -1,2 +1,2 @@
-THIS CODE IS FOR PRACTISE AND SELF LEARNING.
-"Victory is for those who try anythting at all"- said by anyone
+THIS CODE IS FOR PRACTICE AND SELF LEARNING.
+"Victory is for those who try anything at all"- said by anyone
